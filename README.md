@@ -1,16 +1,19 @@
-### Hi there 👋
+**Hi, I'm Yosra**
 
-<!--
-**yousrakhaleel/yousrakhaleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineer and junior fullstack web developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### My Technology:
+
+![](https://i.imgur.com/tn8XrT3.png) ![](https://i.imgur.com/u3PDdB7.png) ![](https://i.imgur.com/DEsdxki.png) ![](https://i.imgur.com/V4JEmYL.png) ![](https://i.imgur.com/OuE62Np.png)
+
+![](https://i.imgur.com/c7ixPxY.png) ![](https://i.imgur.com/Vm1Z2m8.png) ![](https://i.imgur.com/Bm8UWtO.png) ![](https://i.imgur.com/rX6kRge.png)
+
+![](https://i.imgur.com/kmBXs6W.png) ![](https://i.imgur.com/1VnS9CN.png) ![](https://i.imgur.com/Sp7gLck.png) ![](https://i.imgur.com/XEv8Q6O.png) ![](https://i.imgur.com/KAEpGgN.png)
+
+![](https://i.imgur.com/wfoZI8P.png)
+
+
+
+---
