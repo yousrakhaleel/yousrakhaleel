@@ -1,7 +1,6 @@
-**Hi, I'm Yosra**
+## Hi, I'm Yosra
 
 I'm a Computer Engineer and junior fullstack web developer.
-
 
 ---
 ### My Technology:
