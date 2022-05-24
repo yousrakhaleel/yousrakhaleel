@@ -1,7 +1,11 @@
 <h1 align="center"> Hi, I'm Yosra </h1>
 
-<p align="center">I'm a Computer Engineer and junior fullstack web developer.</p>
+<h2> About Me </h2>
 
+- Bachelor's degree in Computer Engineering from the Islamic University
+- Graduated from Gaza Sky Geeks' Code Academy (Career Accelerator).
+
+<br />
 
 <h2> My Technology: </h2>
 
