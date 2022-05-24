@@ -1,6 +1,6 @@
-## Hi, I'm Yosra
+<h1 align="center"> Hi, I'm Yosra </h1>
 
-I'm a Computer Engineer and junior fullstack web developer.
+<p align="center">I'm a Computer Engineer and junior fullstack web developer.</p>
 
 
 <h2> My Technology: </h2>
@@ -8,7 +8,7 @@ I'm a Computer Engineer and junior fullstack web developer.
 ![](https://i.imgur.com/tn8XrT3.png) ![](https://i.imgur.com/u3PDdB7.png) ![](https://i.imgur.com/DEsdxki.png) ![](https://i.imgur.com/V4JEmYL.png) ![](https://i.imgur.com/OuE62Np.png) ![](https://i.imgur.com/c7ixPxY.png) ![](https://i.imgur.com/Vm1Z2m8.png) ![](https://i.imgur.com/Bm8UWtO.png) ![](https://i.imgur.com/rX6kRge.png) ![](https://i.imgur.com/kmBXs6W.png) ![](https://i.imgur.com/1VnS9CN.png) ![](https://i.imgur.com/Sp7gLck.png) ![](https://i.imgur.com/XEv8Q6O.png) ![](https://i.imgur.com/KAEpGgN.png) ![](https://i.imgur.com/wfoZI8P.png)
 
 
-<h2 align="center">Quick Overview 📈</h2>
+<h2>Quick Overview 📈</h2>
   
   <p align = "center">
  
@@ -27,7 +27,7 @@ I'm a Computer Engineer and junior fullstack web developer.
 
 
 <br />
-<h2 align="center">Visitors 👀</h2>
+<h2>Visitors 👀</h2>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/yousrakhaleel/count.svg"></img>
 </div>
